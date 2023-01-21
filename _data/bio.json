@@ -6,11 +6,11 @@
     "email": "daenerystargaryen@sjtu.edu.cn",
     "phone": "",
     "website": "https://Geralt-Targaryen.github.io",
-    "summary": "An interdisciplinary and innovative scientist combining both wet-lab expertise with computational skills. A team-oriented drug discovery biologist with experience contributing in cross-functional teams. Broad interests with projects spanning oncology, liver disease, and infectious disease.",
-    "location": { "address": "", "postalCode": "10002", "city": "New York", "countryCode": "USA", "region": "New York" },
+    "summary": "Hi guys, I'm a graduate student in <a href=\"https://www.cs.sjtu.edu.cn/index.aspx\">Computer Science and Technology</a> with a passion for machine learning, matrix theory, and linguistics. I also love nature, sports, movies, American TV shows and Chinese-style music!",
+    "location": { "city": "Shanghai", "country": "China" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/kambergjohnson" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/katieambergjohnson" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/Geralt-Targaryen" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://github.com/Geralt-Targaryen" }
     ]
   }
 }
