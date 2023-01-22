@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sketch_cover.jpeg
+image: images/sketch_cover.png
 title: "<b>Free-hand Sketch Recognition</b>"
 date: 2022.06
 published: true
@@ -11,7 +11,7 @@ labels:
   - Deep Learning
   - Computer Vision
   - Sketch Recognition
-summary: "Image classification? ResNet Is All You Need! Or... is it? For free-hand sketches, RNN can be useful as well!"
+summary: "Image classification? ResNet Is All You Need! <br> Or... is it? For free-hand sketches, RNN can be useful as well!"
 ---
 
 lalala.
