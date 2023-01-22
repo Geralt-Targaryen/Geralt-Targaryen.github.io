@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Tensor_cover.jpeg
+image: images/tensor_cover.jpeg
 title: "<b>Tensor Core</b>"
 date: 2022.11
 published: true
