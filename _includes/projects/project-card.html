@@ -12,10 +12,9 @@
           <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>
           {% endfor %}
         </p>
-        {% if page.projecturl %}
-        <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
-        {% else %}
         <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
+        {% if page.projecturl %}
+        <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Code</a>
         {% endif %}
       </div>
     </div>
