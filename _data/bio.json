@@ -26,21 +26,19 @@
   "education": [
     {
       "institution": "University of Michigan",
-      "url": "https://www.si.umich.edu/",
-      "major": "Information Science",
-      "studyType": "Master of Science",
-      "startDate": "2022-08-29",
-      "endDate": "2024-05-01",
-      "location": "Ann Arbor, MI, USA",
-      "logo": "../images/U-M_Logo-Hex.png"
+      "url": "https://www.sjtu.edu.cn/",
+      "major": "Working on Master of Science in <a href=\"https://www.cs.sjtu.edu.cn/index.aspx\" target=\"_blank\">Computer Science and Technology</a>.",
+      "startDate": "2023-09",
+      "endDate": "2026-03",
+      "location": "Shanghai, China",
+      "logo": "../images/SJTU_logo.png"
     },
     {
     "institution": "Shanghai Jiaotong University",
-    "url": "https://umji.sjtu.edu.cn/",
-    "major": "Electrical and Computer Engineering",
-    "studyType": "Bachelor of Science",
-    "startDate": "2019-09-01",
-    "endDate": "2023-08-01",
+    "url": "https://www.sjtu.edu.cn/",
+    "major": "Majored in <a href=\"https://music.163.com/#/user/home?id=472019108\" target=\"_blank\">Naval Architecture and Ocean Engineering</a> as a freshman, ranked 1/210, transferred to Computer Science and Technology as a sophomore, also minored in Translation and Interpreting.",
+    "startDate": "2019-09",
+    "endDate": "2023-06",
     "location": "Shanghai, China",
     "logo": "../images/SJTU_logo.png"
     }]
