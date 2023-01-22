@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Ziyin Zhang",
-    "label": "Graduate Student, <a href=\"https://www.sjtu.edu.cn/\">SJTU</a>",
+    "label": "Graduate Student, <a href=\"https://www.sjtu.edu.cn/\" target=\"_blank\">SJTU</a>",
     "picture": "../images/zzy_img1.JPG",
     "email": "daenerystargaryen@sjtu.edu.cn",
     "phone": "",
     "website": "https://Geralt-Targaryen.github.io",
-    "summary": "Hi guys, I'm a graduate student in <a href=\"https://www.cs.sjtu.edu.cn/index.aspx\">Computer Science and Technology</a> with a passion for machine learning, matrix theory, and linguistics. I also love nature, sports, movies, American TV shows and Chinese-style music!",
+    "summary": "Hi guys, I'm a graduate student in <a href=\"https://www.cs.sjtu.edu.cn/index.aspx\" target=\"_blank>Computer Science and Technology</a> with a passion for machine learning, matrix theory, and linguistics. I also love nature, sports, movies, American TV shows and Chinese-style music!",
     "location": { "city": "Shanghai", "country": "China" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/Geralt-Targaryen" }
     ]
   },
-  
+
   "interests": [
     { "icon": "&#129302;", "name": "Machine Learning", "keywords": ["Deep Learning", "Reinforcement Learning", "Natural Language Processing"] },
     { "icon": "&#128200;", "name": "Data Science", "keywords": ["Exploratory Data Analysis", "Time Series Analysis", "Collaborative Data Science"] },
