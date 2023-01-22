@@ -11,7 +11,7 @@ labels:
   - Deep Learning
   - Computer Vision
   - Sketch Recognition
-summary: "Image classification? ResNet Is All You Need! <br> Or... is it? For free-hand sketches, RNN can be useful as well!"
+summary: "Image classification? ResNet Is All You Need! <br> Or... is it? For free-hand sketches, RNN can be useful as well! <br> Even better, we applied a dual-branch model to it, and fused the decision values of RNN and CNN."
 ---
 
 lalala.
