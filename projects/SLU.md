@@ -10,6 +10,7 @@ projectpaper: ../resources/SLU.pdf
 labels:
   - Deep Learning
   - Natural Language Processing
+  - Spoken Language Understanding
 summary: "Chinese SLU with @<a href=\"https://github.com/KevinSRR\" target=\"_blank\">Reginald</a>. We formulated SLU as a sequence tagging task, and applied both discriminative token labeling models and seq2seq models to it. We also introduced a dual-branch decoder architecture to utilize manually corrected ASR transcriptions for denoising."
 ---
 
