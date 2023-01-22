@@ -6,7 +6,7 @@
     "email": "daenerystargaryen@sjtu.edu.cn",
     "phone": "",
     "website": "https://Geralt-Targaryen.github.io",
-    "summary": "Hi guys, I'm a graduate student in <a href=\"https://www.cs.sjtu.edu.cn/index.aspx\" target=\"_blank\">Computer Science and Technology</a> with a passion for machine learning, matrix theory, and linguistics. I also love nature, sports, movies, American TV shows and Chinese-style music!",
+    "summary": "Hi guys, I'm a graduate student in <a href=\"https://www.cs.sjtu.edu.cn/index.aspx\" target=\"_blank\">Computer Science and Technology</a> with a passion for machine learning, linear algebra, and linguistics. I also love nature, sports, movies, American TV shows and Chinese-style music!",
     "location": { "city": "Shanghai", "country": "China" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/Geralt-Targaryen" }
@@ -18,8 +18,9 @@
     { "icon": "&#128172;", "name": "Linguistics", "keywords": ["General Linguistics", "Computational Linguistics", "Translation", "Interpretation"] },
     { "icon": "&#128187;", "name": "Software Engineering", "keywords": ["Web Development", "Software Design"] },
     { "icon": "&#9917;", "name": "Sports", "keywords": ["Running", "Soccer", "Basketball", "Badminton", "Table Tennis"] },
-    { "icon": "&#127909;", "name": "Movies", "keywords": ["Action", "Adventure", "Fantasy", "Creature Feature", "Learn more on <a href=\"https://www.imdb.com/user/ur80912049/?ref_=nv_usr_prof_2\" target=\"_blank\">IMDb</a>"] },
-    { "icon": "&#127911;", "name": "Music", "keywords": ["<a href=\"https://music.163.com/#/artist?id=188565&userid=556590451\" target=\"_blank\">Lin Yin</a>", "<a href=\"https://music.163.com/#/artist?id=12308369\" target=\"_blank\">Shifu Huang</a>", "Learn more on <a href=\"https://music.163.com/#/user/home?id=472019108\" target=\"_blank\">NetEase</a>"] },
+    { "icon": "&#127909;", "name": "Movies", "keywords": ["Action", "Adventure", "Fantasy", "Creature Feature", "learn more on <a href=\"https://www.imdb.com/user/ur80912049/?ref_=nv_usr_prof_2\" target=\"_blank\">IMDb</a>"] },
+    { "icon": "&#127911;", "name": "Music", "keywords": ["<a href=\"https://music.163.com/#/artist?id=188565&userid=556590451\" target=\"_blank\">Lin Yin</a>", "<a href=\"https://music.163.com/#/artist?id=12308369\" target=\"_blank\">Shifu Huang</a>", "learn more on <a href=\"https://music.163.com/#/user/home?id=472019108\" target=\"_blank\">NetEase</a>"] },
+    { "icon": "&#128218;", "name": "Literature", "keywords": ["Tolkien", "George Martin", "and other dark fantasies"] },
     { "icon": "&#128090;", "name": "Adidas", "keywords": ["Not Sponsored!"] }
   ],
 
