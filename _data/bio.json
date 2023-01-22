@@ -15,8 +15,12 @@
 
   "interests": [
     { "icon": "&#129302;", "name": "Machine Learning", "keywords": ["Deep Learning", "Natural Language Processing", "Computer Vision", "Reinforcement Learning"] },
-    { "icon": "&#128200;", "name": "Linguistics", "keywords": ["General Linguistics", "Computational Linguistics", "Translation", "Interpretation"] },
-    { "icon": "&#127918;", "name": "Software Engineering", "keywords": ["Web Development", "Software Design"] }
+    { "icon": "&#128172;", "name": "Linguistics", "keywords": ["General Linguistics", "Computational Linguistics", "Translation", "Interpretation"] },
+    { "icon": "&#128187;", "name": "Software Engineering", "keywords": ["Web Development", "Software Design"] },
+    { "icon": "&#9917;", "name": "Sports", "keywords": ["Running", "Soccer", "Basketball", "Badminton", "Table Tennis"] },
+    { "icon": "&#127909;", "name": "Movies", "keywords": ["Action", "Adventure", "Fantasy", "Creature Feature", "Learn more on <a href=\"https://www.imdb.com/user/ur80912049/?ref_=nv_usr_prof_2\" target=\"_blank\">IMDb</a>"] },
+    { "icon": "&#127911;", "name": "Music", "keywords": ["<a href=\"https://music.163.com/#/artist?id=188565&userid=556590451\" target=\"_blank\">Lin Yin</a>", "<a href=\"https://music.163.com/#/artist?id=12308369\" target=\"_blank\">Shifu Huang</a>", "Learn more on <a href=\"https://music.163.com/#/user/home?id=472019108\" target=\"_blank\">NetEase</a>"] },
+    { "icon": "&#128090;", "name": "Adidas", "keywords": ["Not Sponsored!"] }
   ],
 
   "education": [
