@@ -14,10 +14,10 @@
         <p class="card-text">{{ include.page.summary }}</p>
         <!-- <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a> -->
         {% if page.projectpaper %}
-        <a href="{{ page.projectpaper }}" class="btn btn-outline-dark">Paper</a>
+        <a href="{{ page.projectpaper }}"  target="_blank" class="btn btn-outline-dark">Paper</a>
         {% endif %}
         {% if page.projecturl %}
-        <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Code</a>
+        <a href="{{ page.projecturl }}" target="_blank" class="btn btn-outline-dark">Code</a>
         {% endif %}
       </div>
     </div>
