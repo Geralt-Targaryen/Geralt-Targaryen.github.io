@@ -28,8 +28,38 @@ a {
   text-decoration: none;
 }
 
+/*ul with no bullet for education part*/
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+  /*make line height small*/
+  line-height: 1;
+}
+
+
+ul.interest {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin-left: 5%;
+}
+
+li.interest {
+  font-size: 19px;
+}
+
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
   background-color: var(--bs-white);
   border-top: none;
+}
+
+/*padding for navbar*/
+body {
+  padding-top: 50px;
+}
+
+p.small_height {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
