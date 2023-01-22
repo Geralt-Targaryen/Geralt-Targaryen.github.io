@@ -9,7 +9,8 @@ projecturl: https://github.com/Geralt-Targaryen/SLU
 labels:
   - Deep Learning
   - Natural Language Processing
-summary: "Chinese Spoken Language Understanding with @Kevin."
+summary: "Chinese Spoken Language Understanding with @<a href=\"https://github.com/KevinSRR\" target=\"_blank\">
+Reginald</a>. We formulate SLU as a sequence tagging task, and apply both discriminative token labeling models and seq2seq models to it."
 ---
 
 lalala.
