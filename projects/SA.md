@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/SA_cover.jpeg
 title: "<b>RoBERTa Is All You Need</b>"
-date: 2022.11 - 2022.12
+date: 2022.12
 published: true
 projecturl: https://github.com/Geralt-Targaryen/CS247-sentiment-analysis
 projectpaper: ../resources/RoBERTa_Is_All_You_Need.pdf
