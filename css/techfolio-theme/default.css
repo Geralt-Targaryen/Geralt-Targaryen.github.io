@@ -42,11 +42,11 @@ ul.interest {
   list-style-type: none; /* Remove bullets */
   padding: 0; /* Remove padding */
   margin-left: 5%;
+  line-height:170%;
 }
 
 li.interest {
   font-size: 19px;
-  line-height:130%;
 }
 
 /* Simplify the styling of the bottom of Essay cards. */
