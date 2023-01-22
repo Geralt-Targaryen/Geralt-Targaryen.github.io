@@ -36,7 +36,47 @@
     </div>
     <div class="row">
       <hr class="my-4">
-      <p class="lead">{{ site.data.bio.basics.summary }}</p>
+      <h2>About Me</h2>  
+      <p style="font-size: 19px;">
+        {{ site.data.bio.basics.summary }}
+      </p>
+    </div>
+    <div class="row">
+      <hr class="my-4">
+      <h2>Area of Interests</h2>
+      <p class="lead">
+        <ul class="interest">
+        {% for interest in site.data.bio.interests %}
+        <li class="interest"><span>{{ interest.icon }}</span> {{ interest.name }}: {{ interest.keywords | join: ', ' }}</li>
+        {% endfor %}
+        </ul>
+      </p>
+    </div>
+    <div class="row">
+      <hr class="my-4">
+      <h2>Education</h2>
+      <p class="lead">
+        <!-- create a picture at the left side of a list-->
+        <ul class="no-bullets">
+        {% for education in site.data.bio.education %}
+        <li>
+          <div class="row">
+            <div class="col-sm-2">
+              <img width="115" height="115" src="{{ education.logo }}" class="d-block mx-auto rounded-circle">
+            </div>
+            <div class="col-lg-8 align-self-center">
+              <h5>{{ education.institution }}</h5>
+              <p>{{ education.location }}</p>
+              <p>{{ education.studyType }} in {{ education.major }}</p>
+              <p>{{ education.startDate }} - {{ education.endDate }}</p>
+              <!--add an empty line-->
+              <br>
+            </div>
+          </div>
+        </li>
+        {% endfor %}
+        </ul>
+      </p>
     </div>
   </div>
 </div>
