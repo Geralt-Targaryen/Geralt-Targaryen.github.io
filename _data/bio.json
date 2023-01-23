@@ -51,11 +51,11 @@
     }],
 
   "honor": [
-    {"award": "Dongshi Scholarship", "note": "(&#65509;10000)", "time": "Nov. 2022"},
-    {"award": "SJTU Undergraduate Class B Scholarship", "note": "(&#65509;1000)", "time": "Nov. 2022"},
-    {"award": "Huawei Scholarship", "note": "(&#65509;5000)", "time": "Nov. 2021"},
-    {"award": "SJTU Undergraduate Class C Scholarship", "note": "(&#65509;500)", "time": "Nov. 2021"},
-    {"award": "SJTU Undergraduate Class B Scholarship", "note": "(&#65509;1000)", "time": "Nov. 2020"}
+    {"award": "Dongshi Scholarship ", "note": "(&#65509;10000)", "time": "Nov. 2022"},
+    {"award": "SJTU Undergraduate Class B Scholarship ", "note": "(&#65509;1000)", "time": "Nov. 2022"},
+    {"award": "Huawei Scholarship ", "note": "(&#65509;5000)", "time": "Nov. 2021"},
+    {"award": "SJTU Undergraduate Class C Scholarship ", "note": "(&#65509;500)", "time": "Nov. 2021"},
+    {"award": "SJTU Undergraduate Class B Scholarship ", "note": "(&#65509;1000)", "time": "Nov. 2020"}
   ]
 
 }
