@@ -1,4 +1,4 @@
-<div style="background-color: var(--tf-page-bg-color)" class="bg-gradient py-3" id="experiences">
+<div style="background-color: var(--tf-papers-bg-color)" class="bg-gradient py-3" id="experiences">
   <div class="container">
     <div class="row mb-3">
       <div class="col-md-6">
@@ -7,61 +7,23 @@
     </div>
 
     <div class="row">
-      <div class="col-sm">
-        <ul class="no-bullets">
-          <li>
-            <div class="row">
-              <div class="col-sm-2">
-                <img width="130" height="130" src="../images/logo_grid.jpg" class="d-block mx-auto">
-              </div>
-              <div class="col-lg-8 align-self-center" style="margin-left: 10%;">
-                <h5>Special Coach in State Grid Digitization and Data Application Contest 2022</h5>
-                <p class="small_height">Tai'an, Shandong, China</p>
-                <p class="small_height">2022.11 - 2022.12</p>
-                <p class="small_height">Advise Shangdong team on automatic document processing.</p>
-                <!--add an empty line-->
-                <br>
-              </div>
-            </div>
-          </li>
-          <p><br></p>
-          <li>
-            <div class="row">
-              <div class="col-sm-2">
-                <img width="130" height="130" src="../images/logo_sjtu.png" class="d-block mx-auto">
-              </div>
-              <div class="col-lg-8 align-self-center" style="margin-left: 10%;">
-                <h5>Assistant in SJTU Student Innovative Practice Project</h5>
-                <p class="small_height">SJTU, Shanghai, China</p>
-                <p class="small_height">2021.10 - </p>
-                <p class="small_height">Develop project website, advise students on natural language inference.</p>
-                <!--add an empty line-->
-              </div>
-            </div>
-          </li>
-        </ul>
+      {% for experience in site.data.experiences %}
+      <div class="col-md-6 col-lg-6">
+        <div class="row">
+          <div class="col-sm-2">
+            <img width="130" height="130" src="{{ experience.image }}" class="d-block mx-auto">
+          </div>
+          <div class="col-lg-8 align-self-center" style="margin-left: 10%;">
+            <h5>{{ experience.summary }}</h5>
+            <p class="small_height">{{ experience.location }}</p>
+            <p class="small_height">{{ experience.time }}</p>
+            <p class="small_height">{{ experience.description }}</p>
+            <br>
+          </div>
+        </div>
       </div>
-      <div class="col-sm">
-        <ul class="no-bullets">
-          <li>
-            <div class="row">
-              <div class="col-sm-2">
-                <img width="130" height="130" src="../images/logo_sfl.png" class="d-block mx-auto">
-              </div>
-              <div class="col-lg-8 align-self-center" style="margin-left: 10%;">
-                <h5>Teaching Assistant of EN397 Linguistic Intelligence</h5>
-                <p class="small_height">School of Foreign Languages, SJTU</p>
-                <p class="small_height">2022.10 - 2023.1</p>
-                <p class="small_height">Assist the weekly teaching, advise senior linguistic students on NLP, design the coursework.</p>
-                <!--add an empty line-->
-                <br>
-              </div>
-            </div>
-          </li>
-          <p><br></p>
-        </ul>
-      </div>
+      {% endfor %}
     </div>
-    <p><br><br></p>
+
   </div>
 </div>
