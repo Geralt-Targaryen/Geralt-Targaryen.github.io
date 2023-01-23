@@ -1,11 +1,10 @@
 ---
 layout: project
 type: project
-image: images/Kaggle_cover.jpeg
+image: images/Kaggle_cover.png
 title: "<b>Conquering the Dark Nights with Machine Learning</b>"
 date: 2021.12
 published: true
-projecturl: https://github.com/Geralt-Targaryen/CS247-sentiment-analysis
 projectpaper: ../resources/Kaggle.pdf
 labels:
   - Reinforcement Learning
