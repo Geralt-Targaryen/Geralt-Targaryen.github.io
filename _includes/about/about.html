@@ -68,7 +68,7 @@
               <h5>{{ education.institution }}</h5>
               <p>{{ education.startDate }} - {{ education.endDate }}</p>
               <p style="line-height: 150%;">{{ education.major }}</p>
-              <p style="line-height: 150%;"><b>Subjects</b>: {{ education.course }}</p>
+              <details open=""><summary>Subjects</summary> {{ education.course }}</details>
               <!--add an empty line-->
               <br>
             </div>

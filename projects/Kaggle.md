@@ -9,7 +9,7 @@ projectpaper: ../resources/Kaggle.pdf
 labels:
   - Reinforcement Learning
   - Kaggle
-summary: "The night is dark and full of terrors, but reinforcement learning is as good as Melisandre. Hey, Jon Snow, look over here!"
+summary: "The night is dark and full of terrors, but Reinforcement Learning is as good as R'hllor. Hey, Jon Snow, look over here!"
 ---
 
 lalala.
