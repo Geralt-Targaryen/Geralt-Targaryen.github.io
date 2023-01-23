@@ -1,10 +1,10 @@
 ---
 layout: project
 type: experience
-image: images/logo_grid.jpg
+image: images/marathon.jpeg
 id: 0
-summary: Special Coach in State Grid Digitization and Data Application Contest 2022
-location: Tai'an, Shandong, China
-time: 2022.11 - 2022.12
-description: Advise Shangdong team on automatic document processing
+summary: Volunteer in 2020 Shanghai Marathon
+location: Shanghai, China
+time: 2020.11
+description: Provide logistics service to contestants
 ---
