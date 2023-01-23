@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/MCM_cover.png
-title: "Mining the Past and Envisioning the Future"
+title: "The \"Optimal\" Road to Fortune"
 date: 2022.02
 published: true
 projectpaper: ../resources/MCM.pdf
 labels:
   - Data Science
   - Time Series Analysis
-summary: "This is a time series analysis project for Mathematical Contest of Modeling (MCM) 2022. The paper won Honorable Mention prize."
+summary: "A time series analysis project for Mathematical Contest of Modeling (MCM) 2022, with @<a href=\"https://github.com/KevinSRR\" target=\"_blank\">Reginald</a> and @<a href=\"https://github.com/TaikiShuttle\" target=\"_blank\">Haoquan</a>. The paper won Honorable Mention prize."
 ---
 
 Bitcoin and gold are two major investment methods in modern society. Gold price tends to be stable, while the Bitcoin price tends to vibrate. Investors are often seeking for opportunities to transfer their funds between different goods to maximize their gain. In this project, we are provided with two historical data for gold and Bitcoin respectively. The question is to find a detailed investment plan (i.e. hold how much money in gold, bitcoin, or in hand in each day) to maximize the initial fund of 1000 dollars.
