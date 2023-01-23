@@ -87,16 +87,16 @@
     <div class="row">
       <hr class="my-4">
       <h2>Honors</h2>
-      <div class="row-lg-9">
-        <ul class="no-bullets">
-          {% for honor in site.data.bio.honor %}
-          <li>
-            <span><em>{{ hornor.award }}</em>{{ honor.note }}</span>
+      <p class="lead">
+        {% for honor in site.data.bio.honor %}
+        <div class="row">
+          <div class="col-lg-9">
+            <span><em>{{ honor.award }}</em>{{ honor.note }}</span>
             <span style="float:right">{{ honor.time }}</span>
-          </li>
-          {% endfor %}
-          </ul>
-      </div>
+          </div>
+        </div>
+        {% endfor %}
+      </p>
     </div>
   </div>
 </div>
