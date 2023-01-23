@@ -1,13 +1,13 @@
 [
     {
-        "id": 1,
-        "image": "../images/llogo_sjtu.png",
-        "summary": "Assistant in SJTU Student Innovative Practice Project",
-        "location": "SJTU, Shanghai, China",
-        "time": "2021.10 - ",
-        "description": "Develop project website, advise students on natural language inference."
+        "id": 3,
+        "image": "../images/logo_grid.jpg",
+        "summary": "Special Coach in State Grid Digitization and Data Application Contest 2022",
+        "location": "Tai'an, Shandong, China",
+        "time": "2022.11 - 2022.12",
+        "description": "Advise Shangdong team on automatic document processing."
     },
-    
+
     {
         "id": 2,
         "image": "../images/logo_sfl.png",
@@ -18,11 +18,11 @@
     },
 
     {
-        "id": 3,
-        "image": "../images/logo_grid.jpg",
-        "summary": "Special Coach in State Grid Digitization and Data Application Contest 2022",
-        "location": "Tai'an, Shandong, China",
-        "time": "2022.11 - 2022.12",
-        "description": "Advise Shangdong team on automatic document processing."
-    }
+        "id": 1,
+        "image": "../images/logo_sjtu.png",
+        "summary": "Assistant in SJTU Student Innovative Practice Project",
+        "location": "SJTU, Shanghai, China",
+        "time": "2021.10 - ",
+        "description": "Develop project website, advise students on natural language inference."
+    },
 ]
