@@ -9,7 +9,7 @@ projectpaper: ../resources/Algo.pdf
 labels:
   - Optimization
   - Genetic Algorithm
-summary: "Technically this was my first writing that's remotely \"academic\", but I’m not bothering myself to read it again &#129322;. For some reason, I was obssessed with Genetic Algorithm at that time, without even knowing what's Python."
+summary: "Technically this was my first writing that's remotely \"academic\", but I’m not bothering myself to read it again &#129322;. For some reason I was obssessed with Genetic Algorithm at that time, without even realizing the existence of neural networks, gradient descent, or Python &#129313;."
 ---
 
 lalala.
