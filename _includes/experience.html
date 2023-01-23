@@ -8,6 +8,7 @@
 
     <div class="row">
       {% for experience in site.data.experiences %}
+      {% assign experience_count = forloop.range %}
       <div class="col-md-6 col-lg-6">
         <div class="row">
           <div class="col-sm-2">
@@ -28,8 +29,8 @@
       {% endfor %}
     </div>
 
-    {% if site.pages.size > include.limit %}
-      <p class="text-center pt-4"><a href="{{ site.baseurl}}/experiences/">See all {{ site.pages.size }} experiences</a></p>
+    {% if experience_count > include.limit %}
+      <p class="text-center pt-4"><a href="{{ site.baseurl}}/experiences/">See all {{ experience_count }} experiences</a></p>
     {% endif %}
 
   </div>
