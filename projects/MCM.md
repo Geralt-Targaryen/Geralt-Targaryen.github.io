@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/MCM_cover.png
-title: "The \"Optimal\" Road to Fortune"
+title: "<b>The \"Optimal\" Road to Fortune</b>"
 date: 2022.02
 published: true
 projectpaper: ../resources/MCM.pdf
