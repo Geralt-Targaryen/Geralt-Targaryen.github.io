@@ -11,7 +11,7 @@ labels:
   - Deep Learning
   - Domain Adaptation
   - EEG
-summary: "Domain Adaptation experiments with @<a href=\"https://github.com/dadadadawjb\" target=\"_blank\">Junbo</a> on SJTU Emotion Electroencephalography Dataset (SEED). Methods include domain-shift based adaptation (subspace alignment, correlation alignment, kernel mean matching), Transductive Parameter Transfer, and adversarial learning (Domain Adversarial NN, Adversarial Discriminative Domain Adaptation)."
+summary: "Domain Adaptation experiments with @<a href=\"https://github.com/dadadadawjb\" target=\"_blank\">Junbo</a> on SJTU Emotion Electroencephalography Dataset (SEED). Methods include domain-shift based adaptation (Subspace Alignment, Correlation Alignment, Kernel Mean Matching), Transductive Parameter Transfer, and adversarial learning (Domain Adversarial NN, Adversarial Discriminative Domain Adaptation)."
 ---
 
 lalala.
