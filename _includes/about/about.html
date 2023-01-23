@@ -34,6 +34,7 @@
         </div>
       </div>
     </div>
+
     <div class="row">
       <hr class="my-4">
       <h2>About Me</h2>  
@@ -41,6 +42,7 @@
         {{ site.data.bio.basics.summary }}
       </p>
     </div>
+
     <div class="row">
       <hr class="my-4">
       <h2>Area of Interests</h2>
@@ -52,6 +54,7 @@
         </ul>
       </p>
     </div>
+
     <div class="row">
       <hr class="my-4">
       <h2>Education</h2>
@@ -79,6 +82,21 @@
         {% endfor %}
         </ul>
       </p>
+    </div>
+
+    <div class="row">
+      <hr class="my-4">
+      <h2>Honors</h2>
+      <div class="row-lg-9">
+        <ul class="no-bullets">
+          {% for honor in site.data.bio.honor %}
+          <li>
+            <span><em>{{ hornor.award }}</em>{{ honor.note }}</span>
+            <span style="float:right">{{ honor.time }}</span>
+          </li>
+          {% endfor %}
+          </ul>
+      </div>
     </div>
   </div>
 </div>
