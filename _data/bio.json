@@ -9,18 +9,76 @@
     "summary": "Hi guys, I'm a graduate student in <a href=\"https://www.cs.sjtu.edu.cn/index.aspx\" target=\"_blank\">Computer Science and Technology</a> with a passion for machine learning, linear algebra, and linguistics. I also love nature, sports, movies, American TV shows and Chinese-style music!",
     "location": { "city": "Shanghai", "country": "China" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/Geralt-Targaryen" }
+      {
+        "network": "github",
+        "username": "mmaluhia",
+        "url": "http://github.com/Geralt-Targaryen"
+      }
     ]
   },
 
   "interests": [
-    { "icon": "&#129302;", "name": "Machine Learning", "keywords": ["Deep Learning", "Natural Language Processing", "Computer Vision", "Reinforcement Learning"] },
-    { "icon": "&#128172;", "name": "Linguistics", "keywords": ["General Linguistics", "Computational Linguistics", "Translation", "Interpretation"] },
-    { "icon": "&#128187;", "name": "Software Engineering", "keywords": ["Web Development", "Software Design"] },
-    { "icon": "&#9917;", "name": "Sports", "keywords": ["Running", "Soccer", "Basketball", "Badminton", "Table Tennis"] },
-    { "icon": "&#127909;", "name": "Movies", "keywords": ["Action", "Adventure", "Fantasy", "Creature Feature", "learn more on <a href=\"https://www.imdb.com/user/ur80912049/?ref_=nv_usr_prof_2\" target=\"_blank\">IMDb</a>"] },
-    { "icon": "&#127911;", "name": "Music", "keywords": ["<a href=\"https://music.163.com/#/artist?id=188565&userid=556590451\" target=\"_blank\">Lin Yin</a>", "<a href=\"https://music.163.com/#/artist?id=12308369\" target=\"_blank\">Shifu Huang</a>", "learn more on <a href=\"https://music.163.com/#/user/home?id=472019108\" target=\"_blank\">NetEase</a>"] },
-    { "icon": "&#128218;", "name": "Literature", "keywords": ["Tolkien", "George Martin", "and other dark fantasies"] },
+    {
+      "icon": "&#129302;",
+      "name": "Machine Learning",
+      "keywords": [
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "icon": "&#128172;",
+      "name": "Linguistics",
+      "keywords": [
+        "General Linguistics",
+        "Computational Linguistics",
+        "Translation",
+        "Interpretation"
+      ]
+    },
+    {
+      "icon": "&#128187;",
+      "name": "Software Engineering",
+      "keywords": ["Web Development", "Software Design"]
+    },
+    {
+      "icon": "&#9917;",
+      "name": "Sports",
+      "keywords": [
+        "Running",
+        "Soccer",
+        "Basketball",
+        "Badminton",
+        "Table Tennis"
+      ]
+    },
+    {
+      "icon": "&#127909;",
+      "name": "Movies",
+      "keywords": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Creature Feature",
+        "learn more on <a href=\"https://www.imdb.com/user/ur80912049/?ref_=nv_usr_prof_2\" target=\"_blank\">IMDb</a>"
+      ]
+    },
+    {
+      "icon": "&#127911;",
+      "name": "Music",
+      "keywords": [
+        "<a href=\"https://music.163.com/#/artist?id=188565&userid=556590451\" target=\"_blank\">Lin Yin</a>",
+        "<a href=\"https://music.163.com/#/artist?id=12308369\" target=\"_blank\">Shifu Huang</a>",
+        "learn more on <a href=\"https://music.163.com/#/user/home?id=472019108\" target=\"_blank\">NetEase</a>"
+      ]
+    },
+    {
+      "icon": "&#128218;",
+      "name": "Literature",
+      "keywords": ["Tolkien", "George Martin", "and other dark fantasies"]
+    },
     { "icon": "&#128090;", "name": "Adidas", "keywords": ["Not Sponsored!"] }
   ],
 
@@ -38,24 +96,44 @@
       "logo": "../images/SJTU_logo.png"
     },
     {
-    "institution": "<b>Shanghai Jiao Tong University</b>",
-    "url": "https://www.sjtu.edu.cn/",
-    "major": "Majored in <a href=\"https://music.163.com/#/user/home?id=472019108\" target=\"_blank\">Naval Architecture and Ocean Engineering</a> as a freshman, ranked 1/210, transferred to Computer Science and Technology as a sophomore, also minored in Translation and Interpretation.",
-    "course_template": "<ul> <li>MA<ul>  <li>Calculus: 97/100</li> </ul></li> <li>CS<ul> <li>Electric Circuits: 100/100</li> </ul></li>  </ul>",
-    "course": "<ul> <li>MATH<ul>  <li>Calculus: A</li> <li>Probability Theory and Statistics: 92/100</li> <li>Linear Algebra: 94/100</li> <li>Discrete Mathematics: 99/100</li> <li>Algorithm and Complexity: 94/100</li> </ul></li>       <li>CS<ul> <li>C++ programming: 98/100</li> <li>Data Structure: 94/100</li> <li>Operating System: 95/100</li> <li>Computer System Architecture: 95/100</li> <li>Principles of Compiler: 97/100</li> <li>Computer Graphics: 94/100</li> <li>Computer Networking: 98/100</li> </ul></li>      <li>AI<ul> <li>Principles of Data Science: 100/100</li> <li>Artificial Intelligence: 98/100</li> <li>Machine Learning: 97/100</li> <li>Reinforcement Learning: 92/100</li> <li>Natural Language Processing: 98.5/100</li> <li>Data Mining: 97/100</li> </ul></li>       <li>LANG<ul> <li>English Reading and Writing: 96/100</li> <li>Basic Latin: 98/100</li> <li>Interpretation: 98/100</li>  </ul></li>      </ul>",
-    "summary": "A total of 82 courses and 204 credits",
-    "startDate": "2019-09",
-    "endDate": "2023-06",
-    "location": "Shanghai, China",
-    "logo": "../images/SJTU_logo.png"
-    }],
+      "institution": "<b>Shanghai Jiao Tong University</b>",
+      "url": "https://www.sjtu.edu.cn/",
+      "major": "Majored in <a href=\"https://naoce.sjtu.edu.cn\" target=\"_blank\">Naval Architecture and Ocean Engineering</a> as a freshman, ranked 1/210, transferred to Computer Science and Technology as a sophomore, also minored in Translation and Interpretation.",
+      "course_template": "<ul> <li>MA<ul>  <li>Calculus: 97/100</li> </ul></li> <li>CS<ul> <li>Electric Circuits: 100/100</li> </ul></li>  </ul>",
+      "course": "<ul> <li>MATH<ul>  <li>Calculus: A</li> <li>Probability Theory and Statistics: 92/100</li> <li>Linear Algebra: 94/100</li> <li>Discrete Mathematics: 99/100</li> <li>Algorithm and Complexity: 94/100</li> </ul></li>       <li>CS<ul> <li>C++ programming: 98/100</li> <li>Data Structure: 94/100</li> <li>Operating System: 95/100</li> <li>Computer System Architecture: 95/100</li> <li>Principles of Compiler: 97/100</li> <li>Computer Graphics: 94/100</li> <li>Computer Networking: 98/100</li> </ul></li>      <li>AI<ul> <li>Principles of Data Science: 100/100</li> <li>Artificial Intelligence: 98/100</li> <li>Machine Learning: 97/100</li> <li>Reinforcement Learning: 92/100</li> <li>Natural Language Processing: 98.5/100</li> <li>Data Mining: 97/100</li> </ul></li>       <li>LANG<ul> <li>English Reading and Writing: 96/100</li> <li>Basic Latin: 98/100</li> <li>Interpretation: 98/100</li>  </ul></li>      </ul>",
+      "summary": "A total of 82 courses and 204 credits",
+      "startDate": "2019-09",
+      "endDate": "2023-06",
+      "location": "Shanghai, China",
+      "logo": "../images/SJTU_logo.png"
+    }
+  ],
 
   "honor": [
-    {"award": "Dongshi Scholarship ", "note": "(&#65509;10000)", "time": "Nov. 2022"},
-    {"award": "SJTU Undergraduate Class B Scholarship ", "note": "(&#65509;1000)", "time": "Nov. 2022"},
-    {"award": "Huawei Scholarship ", "note": "(&#65509;5000)", "time": "Nov. 2021"},
-    {"award": "SJTU Undergraduate Class C Scholarship ", "note": "(&#65509;500)", "time": "Nov. 2021"},
-    {"award": "SJTU Undergraduate Class B Scholarship ", "note": "(&#65509;1000)", "time": "Nov. 2020"}
+    {
+      "award": "Dongshi Scholarship ",
+      "note": "(&#65509;10000)",
+      "time": "Nov. 2022"
+    },
+    {
+      "award": "SJTU Undergraduate Class B Scholarship ",
+      "note": "(&#65509;1000)",
+      "time": "Nov. 2022"
+    },
+    {
+      "award": "Huawei Scholarship ",
+      "note": "(&#65509;5000)",
+      "time": "Nov. 2021"
+    },
+    {
+      "award": "SJTU Undergraduate Class C Scholarship ",
+      "note": "(&#65509;500)",
+      "time": "Nov. 2021"
+    },
+    {
+      "award": "SJTU Undergraduate Class B Scholarship ",
+      "note": "(&#65509;1000)",
+      "time": "Nov. 2020"
+    }
   ]
-
 }
