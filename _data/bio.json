@@ -26,19 +26,19 @@
 
   "education": [
     {
-      "institution": "<b>Shanghai Jiaotong University</b>",
+      "institution": "<b>Shanghai Jiao Tong University</b>",
       "url": "https://www.sjtu.edu.cn/",
       "major": "Working on Master of Science in <a href=\"https://www.cs.sjtu.edu.cn/index.aspx\" target=\"_blank\">Computer Science and Technology</a>.",
       "course_template": "<ul> <li>MATH<ul>  <li>Calculus: 97/100</li> </ul></li> <li>CS<ul> <li>Electric Circuits: 100/100</li> </ul></li>  </ul>",
       "course": "<ul> <li>MATH<ul>  <li>Matrix Theory: to be graded</li> </ul></li> <li>AI<ul> <li>Statistical Learning and Inference: 95/100</li> </ul></li>  </ul>",
-      "summary": "3 courses and 7 credits as of Januray 2023",
+      "summary": "3 courses and 7 credits as of January 2023",
       "startDate": "2023-09",
       "endDate": "2026-03",
       "location": "Shanghai, China",
       "logo": "../images/SJTU_logo.png"
     },
     {
-    "institution": "<b>Shanghai Jiaotong University</b>",
+    "institution": "<b>Shanghai Jiao Tong University</b>",
     "url": "https://www.sjtu.edu.cn/",
     "major": "Majored in <a href=\"https://music.163.com/#/user/home?id=472019108\" target=\"_blank\">Naval Architecture and Ocean Engineering</a> as a freshman, ranked 1/210, transferred to Computer Science and Technology as a sophomore, also minored in Translation and Interpretation.",
     "course_template": "<ul> <li>MA<ul>  <li>Calculus: 97/100</li> </ul></li> <li>CS<ul> <li>Electric Circuits: 100/100</li> </ul></li>  </ul>",
