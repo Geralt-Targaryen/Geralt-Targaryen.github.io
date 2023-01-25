@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: images/Kaggle_cover.png
-title: "<b>Conquering the Dark Nights with Machine Learning</b>"
+title: "<b>Braving the Dark Night with Machine Learning</b>"
 date: 2021.12
 published: true
 projectpaper: ../resources/Kaggle.pdf
 labels:
   - Reinforcement Learning
-  - Kaggle
+  - Lux AI
 summary: "The night is dark and full of terrors, but Reinforcement Learning is as good as R'hllor. Hey, Jon Snow, look over here!"
 ---
 
