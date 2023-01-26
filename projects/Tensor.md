@@ -10,7 +10,7 @@ labels:
   - Parallel Computation
   - CUDA
   - Computer Vision
-summary: "In this project I implemented a ResNet from scratch using CUDA. Particularly, I used Tensor Cores (proposed in Volta architecture) to implement convolution (by im2col) and linear layers. Forward pass only, no gradients!"
+summary: "In this project I assembled a ResNet from scratch using CUDA. Particularly, I used Tensor Cores (proposed in Volta architecture) to implement convolution (by im2col) and linear layers. Forward pass only, no gradients!"
 ---
 
 lalala.
