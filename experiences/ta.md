@@ -6,5 +6,5 @@ id: 1
 summary: Teaching Assistant of EN397 Linguistic Intelligence
 location: School of Foreign Languages, SJTU
 time: 2022.10 - 2023.1
-description: Guide senior linguistic students in NLP, assist the weekly teaching, design the coursework.
+description: "- Guide senior linguistic students in NLP, assist the weekly teaching, design the coursework."
 ---
