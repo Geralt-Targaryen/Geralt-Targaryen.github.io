@@ -29,6 +29,11 @@
       ]
     },
     {
+      "icon": "&#128187;",
+      "name": "Software Engineering",
+      "keywords": ["Web Development", "Software Design"]
+    },
+    {
       "icon": "&#128172;",
       "name": "Linguistics",
       "keywords": [
@@ -37,11 +42,6 @@
         "Translation",
         "Interpretation"
       ]
-    },
-    {
-      "icon": "&#128187;",
-      "name": "Software Engineering",
-      "keywords": ["Web Development", "Software Design"]
     },
     {
       "icon": "&#9917;",
