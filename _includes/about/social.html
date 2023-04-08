@@ -1,8 +1,12 @@
 <a href="{{ include.url }}" target="_blank">
   <svg class="tf-social">
+    {% if include.name != "huggingface" %}
     <use
       href="{{ '/images/bootstrap-icons.svg' | prepend: site.baseurl }}#{{- include.name -}}"
     />
+    {% else %}
+    <use href="/images/huggingface_logo-noborder.svg" />
+    {% endif %}
   </svg>
   <span>{{ include.label }}</span>
 </a>
