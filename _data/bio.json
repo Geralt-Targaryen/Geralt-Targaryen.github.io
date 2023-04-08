@@ -11,8 +11,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "Geralt-Targaryen",
         "url": "http://github.com/Geralt-Targaryen"
+      }
+      {
+        "network": "Hugging Face",
+        "username": "Geralt-Targaryen",
+        "url": "https://huggingface.co/Geralt-Targaryen"
       }
     ]
   },
