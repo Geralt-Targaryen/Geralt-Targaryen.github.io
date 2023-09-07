@@ -108,7 +108,7 @@
       "course": "<ul> <li>MATH<ul>  <li>Calculus: A</li> <li>Probability Theory and Statistics: 92/100</li> <li>Linear Algebra: 94/100</li> <li>Discrete Mathematics: 99/100</li> <li>Algorithm and Complexity: 94/100</li> </ul></li>       <li>CS<ul> <li>C++ programming: 98/100</li> <li>Data Structure: 94/100</li> <li>Operating System: 95/100</li> <li>Computer System Architecture: 95/100</li> <li>Principles of Compiler: 97/100</li> <li>Computer Graphics: 94/100</li> <li>Computer Networking: 98/100</li> </ul></li>      <li>AI<ul> <li>Principles of Data Science: 100/100</li> <li>Artificial Intelligence: 98/100</li> <li>Machine Learning: 97/100</li> <li>Reinforcement Learning: 92/100</li> <li>Natural Language Processing: 98.5/100</li> <li>Data Mining: 97/100</li> </ul></li>       <li>LANG<ul> <li>English Reading and Writing: 96/100</li> <li>Basic Latin: 98/100</li> <li>Interpretation: 98/100</li>  </ul></li>      </ul>",
       "certificate": [
         {
-          "certificate": "<ul> <li>CET-4: 650</li> <li>CET-6: 631</li> <li>TEM-4: 90</li> </ul>"
+          "certificate": "<ul> <li>CET-4: 650</li> <li>CET-6: 631</li> <li>TEM-4: 90</li> <li>TEM-8: 80</li> </ul>"
         }
       ],
       "summary": "A total of 82 courses and 204 credits",
